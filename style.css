@@ -94,3 +94,22 @@ body {
   transform: translateY(6px);
   box-shadow: none;
 }
+
+
+@media (max-height: 600px) {
+  .container {
+    height: 90vh;
+  }
+
+  .piano {
+    height: 80%;
+  }
+
+  .white-key {
+    height: 90%;
+  }
+
+  .black-key {
+    height: 50%;
+  }
+}
