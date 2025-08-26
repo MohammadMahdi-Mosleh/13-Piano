@@ -19,6 +19,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  background-color: whitesmoke;
 }
 
 .container {
@@ -39,7 +40,7 @@ body {
 }
 
 .container header img {
-  width: 180px;
+  width: 120px;
   height: auto;
   margin-top: 20px;
 }
